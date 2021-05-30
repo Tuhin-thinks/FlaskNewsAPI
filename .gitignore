@@ -131,3 +131,6 @@ dmypy.json
 # vs code ignores
 .idea
 .vscode
+
+# secret files not to commit
+config.py
