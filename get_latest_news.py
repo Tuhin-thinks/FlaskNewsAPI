@@ -1,8 +1,8 @@
 import requests
 import json
+from config import *
 
 COUNTRY_CODE = 'in'
-API_KEY = "033995924bc541d59606eb6bbefeea16"
 
 def getNews():
     
